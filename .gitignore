@@ -1,0 +1,25 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual documents
+.virtual_documents/
+
+# Anaconda projects
+anaconda_projects/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Scratch notebooks
+Untitled.ipynb
+
+# IDE
+.vscode/
+.idea/
